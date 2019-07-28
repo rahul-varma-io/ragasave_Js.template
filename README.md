@@ -3,8 +3,10 @@
 Ragasave_Js.Template
 ==================================================
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
+[![GitHub issues](https://img.shields.io/github/issues/ragasave/ragasave_Js.template)](https://github.com/ragasave/ragasave_Js.template/issues)
+[![GitHub license](https://img.shields.io/github/license/ragasave/ragasave_Js.template)](https://github.com/ragasave/ragasave_Js.template/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/ragasave/ragasave_Js.template)](https://github.com/ragasave/ragasave_Js.template/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ragasave/ragasave_Js.template)](https://github.com/ragasave/ragasave_Js.template/network)
 
 CDN
 -------------------------------------------------
